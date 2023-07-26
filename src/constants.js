@@ -1,0 +1,4 @@
+export const SETTINGS = {
+    "CONVAI-API-KEY": "7d4af1ca5993173108ab53e6b0680a9b",
+    "CHARACTER-ID": "bb2f259a-2b3f-11ee-a905-42010a40000b"
+};
